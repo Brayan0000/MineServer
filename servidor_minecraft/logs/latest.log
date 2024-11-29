@@ -116,3 +116,7 @@
 [21:03:56] [User Authenticator #2/INFO]: UUID of player Brayah_ is 4e9490d3-35d6-412b-ab05-fddf8dfece2c
 [21:03:57] [Server thread/INFO]: Brayah_[IP hidden] logged in with entity id 8581 at (49.30000001192093, -37.0, 42.44797014734768)
 [21:03:57] [Server thread/INFO]: [+] Brayah_>
+[21:13:58] [Server thread/INFO]: Brayah_ lost connection: Timed out
+[21:13:58] [Server thread/INFO]: [+] Brayah_>
+[21:13:58] [Server thread/WARN]: handleDisconnection() called twice
+[21:14:58] [Server thread/INFO]: Server empty for 60 seconds, pausing
