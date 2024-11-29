@@ -781,6 +781,7 @@
       "minecraft:blaze": "2024-11-26 19:16:23 +0000",
       "minecraft:skeleton": "2024-11-24 17:42:36 +0000",
       "minecraft:zombified_piglin": "2024-11-26 01:42:24 +0000",
+      "minecraft:witch": "2024-11-29 19:51:56 +0000",
       "minecraft:wither_skeleton": "2024-11-26 20:43:14 +0000",
       "minecraft:ghast": "2024-11-26 18:49:20 +0000",
       "minecraft:hoglin": "2024-11-29 18:15:13 +0000",
@@ -2798,6 +2799,12 @@
   "minecraft:nether/distract_piglin": {
     "criteria": {
       "distract_piglin": "2024-11-29 18:17:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/silk_touch_nest": {
+    "criteria": {
+      "silk_touch_nest": "2024-11-29 19:50:58 +0000"
     },
     "done": true
   },
