@@ -2,25 +2,25 @@
   "CONFIG_VERSION_DONT_TOUCH_THIS": 3,
   "_comment": "Before changing anything, see https://github.com/Patbox/StyledChat#configuration",
   "text_formatting": {
-    "legacy_formatting": false,
+    "legacy_formatting": true,
     "parse_links": true,
-    "parse_mentions": false,
+    "parse_mentions": true,
     "markdown": true,
     "respect_colors_client_setting": true
   },
   "auto_completion": {
-    "tags": false,
-    "tag_aliases": false,
-    "emoticons": false
+    "tags": true,
+    "tag_aliases": true,
+    "emoticons": true
   },
   "default": {
     "display_name": "${default}",
     "message_formats": {
-      "chat": "<${player}> ${message}",
-      "joined_the_game": "<yellow><lang:multiplayer.player.joined:'${player}'></yellow>",
-      "joined_after_name_change": "<yellow><lang:multiplayer.player.joined.renamed:'${player}':'${old_name}'></yellow>",
-      "joined_for_first_time": "<yellow><lang:multiplayer.player.joined:'${player}'></yellow>",
-      "left_game": "<yellow><lang:multiplayer.player.left:'${player}'></yellow>",
+      "chat": "<green><${player}></green> <gray>${message}</gray>",
+      "joined_the_game": "<gray>[<green>+</green>] </gray><yellow>${player}></yellow>",
+      "joined_after_name_change": "<gray>[<green>+</green>] <yellow>${player}></yellow>(${old_name})</gray>",
+      "joined_for_first_time": "<gray>[<green>+</green>] </gray><yellow>${player}></yellow>",
+      "left_game": "<gray>[<red>+</red>] </gray><yellow>${player}></yellow>",
       "base_death": "${default_message}",
       "advancement_task": "<lang:chat.type.advancement.task:'${player}':'${advancement}'>",
       "advancement_challenge": "<lang:chat.type.advancement.challenge:'${player}':'${advancement}'>",
@@ -73,7 +73,9 @@
       "bucket": "🪣",
       "bell": "🔔",
       "item": "[%player:equipment_slot mainhand%]",
-      "pos": "%player:pos_x% %player:pos_y% %player:pos_z%"
+      "pos": "%player:pos_x% %player:pos_y% %player:pos_z%",
+      "ping": "<gray>ping: %player:ping_colored% tps: <green>%server:tps%",
+      "playtime": "%player:playtime%"
     },
     "custom_message_types": {}
   },
