@@ -106,3 +106,9 @@
 [18:05:08] [Server thread/INFO]: Brayah_[IP hidden] logged in with entity id 109 at (74.5, 63.0, 18.5)
 [18:05:08] [Server thread/INFO]: [+] Brayah_>
 [18:13:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-99, y=64, z=-21} class_2338{x=-100, y=64, z=-21}
+[18:14:31] [Server thread/INFO]: Brayah_ lost connection: Disconnected
+[18:14:31] [Server thread/INFO]: [+] Brayah_>
+[18:14:34] [User Authenticator #2/INFO]: UUID of player Brayah_ is 4e9490d3-35d6-412b-ab05-fddf8dfece2c
+[18:14:36] [Server thread/INFO]: Brayah_[IP hidden] logged in with entity id 1975 at (-175.18914443488157, 60.0, -11.892687261259374)
+[18:14:36] [Server thread/INFO]: [+] Brayah_>
+[18:17:42] [Server thread/INFO]: Brayah_ has made the advancement [Oh Shiny]
