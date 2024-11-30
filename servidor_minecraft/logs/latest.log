@@ -114,3 +114,7 @@
 [00:17:16] [User Authenticator #1/INFO]: UUID of player Brayah_ is 4e9490d3-35d6-412b-ab05-fddf8dfece2c
 [00:17:20] [Server thread/INFO]: Brayah_[IP hidden] logged in with entity id 99 at (73.94332944280474, 63.0, 20.594432463027395)
 [00:17:21] [Server thread/INFO]: [+] Brayah_>
+[00:59:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=184, y=76, z=-39} class_2338{x=180, y=80, z=-32}
+[01:11:09] [Server thread/INFO]: Brayah_ lost connection: Disconnected
+[01:11:09] [Server thread/INFO]: [+] Brayah_>
+[01:12:09] [Server thread/INFO]: Server empty for 60 seconds, pausing
