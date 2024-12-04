@@ -133,3 +133,19 @@
 [02:22:40] [Server thread/INFO]: Brayah_ has made the advancement [What a Deal!]
 [02:31:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=30, y=63, z=11} class_2338{x=31, y=63, z=12}
 [02:32:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=33, y=62, z=12} class_2338{x=33, y=63, z=12}
+[02:47:37] [Server thread/INFO]: <Brayah_> 192 -40
+[02:47:57] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:47:57] [Server thread/INFO]: 1stop<--[HERE]
+[02:48:03] [Server thread/INFO]: Stopping the server
+[02:48:03] [Server thread/INFO]: Stopping server
+[02:48:03] [Server thread/INFO]: Saving players
+[02:48:03] [Server thread/INFO]: Brayah_ lost connection: Server closed
+[02:48:03] [Server thread/INFO]: [+] Brayah_>
+[02:48:03] [Server thread/INFO]: Saving worlds
+[02:48:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:48:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:48:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:48:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:48:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:48:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:48:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
