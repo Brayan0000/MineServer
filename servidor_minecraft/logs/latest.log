@@ -135,3 +135,9 @@
 [16:43:31] [Server thread/INFO]: Brayah_ has made the advancement [Ol' Betsy]
 [16:43:34] [Server thread/INFO]: Brayah_ has made the advancement [Voluntary Exile]
 [16:48:38] [Server thread/WARN]: Brayah_ moved too quickly! 7.079243452962999,1.0013359791121417,7.414628259523589
+[17:15:29] [Server thread/INFO]: Unknown game mode: Brayah_
+[17:15:29] [Server thread/INFO]: ...de Brayah_ spectator<--[HERE]
+[17:15:52] [Server thread/INFO]: Unknown game mode: 
+[17:15:52] [Server thread/INFO]: gamemode @a spectator<--[HERE]
+[17:16:20] [Server thread/INFO]: Set Brayah_'s game mode to Spectator Mode
+[17:17:10] [Server thread/INFO]: Set Brayah_'s game mode to Survival Mode
