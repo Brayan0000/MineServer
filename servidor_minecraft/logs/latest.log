@@ -131,3 +131,5 @@
 [01:46:09] [Server thread/INFO]: Brayah_ has made the advancement [Spooky Scary Skeleton]
 [02:06:28] [Server thread/INFO]: Brayah_ has made the advancement [Who is Cutting Onions?]
 [02:22:40] [Server thread/INFO]: Brayah_ has made the advancement [What a Deal!]
+[02:31:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=30, y=63, z=11} class_2338{x=31, y=63, z=12}
+[02:32:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=33, y=62, z=12} class_2338{x=33, y=63, z=12}
