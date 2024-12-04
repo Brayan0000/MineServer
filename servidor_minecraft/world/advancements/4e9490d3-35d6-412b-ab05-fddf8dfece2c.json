@@ -3772,6 +3772,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-04 15:45:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_shulker_box": {
     "criteria": {
       "has_shulker_box": "2024-12-04 15:24:41 +0000"
@@ -3805,6 +3811,18 @@
   "minecraft:recipes/decorations/orange_shulker_box": {
     "criteria": {
       "has_shulker_box": "2024-12-04 15:24:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-04 15:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-04 15:45:20 +0000"
     },
     "done": true
   },
