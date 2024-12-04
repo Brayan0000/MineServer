@@ -15,6 +15,7 @@
       "minecraft:river": "2024-11-24 17:21:49 +0000",
       "minecraft:lukewarm_ocean": "2024-11-26 01:03:16 +0000",
       "minecraft:birch_forest": "2024-11-26 21:41:34 +0000",
+      "minecraft:savanna": "2024-12-04 00:34:05 +0000",
       "minecraft:plains": "2024-11-24 17:18:29 +0000",
       "minecraft:warm_ocean": "2024-11-25 18:10:34 +0000"
     },
@@ -3137,6 +3138,36 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2024-12-01 16:30:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-12-04 00:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2024-12-04 00:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2024-12-04 00:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-12-04 00:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2024-12-04 00:34:55 +0000"
     },
     "done": true
   },
