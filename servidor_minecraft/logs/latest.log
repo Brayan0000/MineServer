@@ -120,3 +120,11 @@
 [01:19:14] [Server thread/INFO]: Brayah_[IP hidden] logged in with entity id 67 at (191.7034373555974, 72.0, -33.97760087055163)
 [01:19:15] [Server thread/INFO]: [+] Brayah_>
 [01:19:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2536ms or 50 ticks behind
+[01:34:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=97, y=53, z=126} class_2338{x=97, y=51, z=126}
+[01:34:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=97, y=53, z=126} class_2338{x=97, y=51, z=126}
+[01:34:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=98, y=53, z=123} class_2338{x=97, y=52, z=122}
+[01:34:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=102, y=53, z=124} class_2338{x=104, y=53, z=125}
+[01:34:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=102, y=53, z=124} class_2338{x=104, y=53, z=125}
+[01:34:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=102, y=53, z=112} class_2338{x=103, y=51, z=112}
+[01:34:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=102, y=53, z=112} class_2338{x=103, y=51, z=112}
+[01:34:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=97, y=52, z=113} class_2338{x=98, y=51, z=113}
