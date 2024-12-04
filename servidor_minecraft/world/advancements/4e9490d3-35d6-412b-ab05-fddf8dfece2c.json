@@ -3647,6 +3647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2024-12-04 16:51:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_shulker_box": {
     "criteria": {
       "has_shulker_box": "2024-12-04 15:24:41 +0000"
@@ -3683,6 +3689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-04 16:51:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_shulker_box": {
     "criteria": {
       "has_shulker_box": "2024-12-04 15:24:41 +0000"
@@ -3707,6 +3719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2024-12-04 16:51:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_shulker_box": {
     "criteria": {
       "has_shulker_box": "2024-12-04 15:24:41 +0000"
@@ -3722,6 +3740,12 @@
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2024-12-04 15:18:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2024-12-04 16:51:13 +0000"
     },
     "done": true
   },
@@ -3755,6 +3779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-04 16:51:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_shulker_box": {
     "criteria": {
       "has_shulker_box": "2024-12-04 15:24:41 +0000"
@@ -3770,6 +3800,12 @@
   "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-12-04 15:23:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-12-04 16:51:13 +0000"
     },
     "done": true
   },
@@ -3797,6 +3833,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-04 16:51:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_shulker_box": {
     "criteria": {
       "has_shulker_box": "2024-12-04 15:24:41 +0000"
@@ -3809,6 +3851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-04 16:51:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_shulker_box": {
     "criteria": {
       "has_shulker_box": "2024-12-04 15:24:41 +0000"
@@ -3818,6 +3866,12 @@
   "minecraft:recipes/decorations/light_gray_shulker_box": {
     "criteria": {
       "has_shulker_box": "2024-12-04 15:24:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2024-12-04 16:51:13 +0000"
     },
     "done": true
   },
@@ -3839,9 +3893,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-04 16:51:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2024-12-04 15:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-04 16:51:10 +0000"
     },
     "done": true
   },
