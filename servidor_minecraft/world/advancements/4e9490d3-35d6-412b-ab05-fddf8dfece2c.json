@@ -490,7 +490,6 @@
     "criteria": {
       "cooked_porkchop": "2024-11-30 00:26:29 +0000",
       "bread": "2024-11-24 17:27:21 +0000",
-      "golden_apple": "2024-12-04 17:30:11 +0000",
       "rotten_flesh": "2024-11-25 16:58:41 +0000",
       "cooked_mutton": "2024-11-27 21:53:43 +0000",
       "cooked_beef": "2024-11-24 17:42:04 +0000",
@@ -797,7 +796,6 @@
       "minecraft:zombified_piglin": "2024-11-26 01:42:24 +0000",
       "minecraft:witch": "2024-11-29 19:51:56 +0000",
       "minecraft:wither_skeleton": "2024-11-26 20:43:14 +0000",
-      "minecraft:ravager": "2024-12-04 17:22:21 +0000",
       "minecraft:ghast": "2024-11-26 18:49:20 +0000",
       "minecraft:ender_dragon": "2024-12-04 03:26:19 +0000",
       "minecraft:hoglin": "2024-11-29 18:15:13 +0000",
@@ -807,7 +805,6 @@
       "minecraft:enderman": "2024-11-24 18:15:54 +0000",
       "minecraft:magma_cube": "2024-11-26 18:51:50 +0000",
       "minecraft:spider": "2024-11-24 17:40:45 +0000",
-      "minecraft:vex": "2024-12-04 17:30:29 +0000",
       "minecraft:zombie": "2024-11-24 17:43:46 +0000",
       "minecraft:creeper": "2024-11-27 21:47:09 +0000",
       "minecraft:drowned": "2024-12-04 03:03:37 +0000",
