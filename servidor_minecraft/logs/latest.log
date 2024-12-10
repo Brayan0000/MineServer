@@ -1,5 +1,5 @@
-[20:23:52] [main/INFO]: Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
-[20:23:53] [main/INFO]: Loading 50 mods:
+[02:08:33] [main/INFO]: Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
+[02:08:33] [main/INFO]: Loading 50 mods:
 	- fabric-api 0.109.0+1.21.3
 	   |-- fabric-api-base 0.4.50+119c825640
 	   |-- fabric-api-lookup-api-v1 1.6.81+fd37071f40
@@ -61,86 +61,73 @@
 	   |-- placeholder-api 2.5.0+1.21.2
 	   |-- player-data-api 0.6.0+1.21
 	   \-- predicate-api 0.6.0+1.21.2
-[20:23:53] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MineServer/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[20:23:53] [main/INFO]: Compatibility level set to JAVA_21
-[20:23:54] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
-[20:23:54] [main/INFO]: Option 'mixin.entity.collisions.fluid' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.entity.collisions.fluid=false'.
-[20:23:54] [main/INFO]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
-[20:23:54] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
-[20:23:54] [main/INFO]: Option 'mixin.experimental.entity.block_caching.fluid_pushing' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.fluid_pushing=false'.
-[20:23:54] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
-[20:23:54] [main/INFO]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
-[20:23:54] [main/INFO]: Loaded configuration file for Lithium: 139 options available, 1 override(s) found
-[20:23:54] [main/WARN]: Reference map 'lithium.refmap.json' for lithium.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:23:54] [main/WARN]: Reference map 'lithium-fabric.refmap.json' for lithium-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:23:54] [main/INFO]: Force-enabling mixin 'compat.transfer_api.TransferApiHelperMixin' as rule 'mixin.compat.transfer_api' (added by mods [lithium]) enables it
-[20:23:54] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[20:24:05] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
-[20:24:05] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
-[20:24:05] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:24:09] [main/INFO]: Loaded 1337 recipes
-[20:24:09] [main/INFO]: Loaded 1448 advancements
-[20:24:09] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 6.698 ms
-[20:24:09] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[20:24:09] [Server thread/INFO]: Loading properties
-[20:24:09] [Server thread/INFO]: Default game type: SURVIVAL
-[20:24:09] [Server thread/INFO]: Generating keypair
-[20:24:10] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:24:10] [Server thread/INFO]: Using epoll channel type
-[20:24:10] [Server thread/INFO]: Preparing level "world"
-[20:24:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:24:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:24:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:24:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:24:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:24:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:24:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:24:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:24:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:24:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:24:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:24:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:24:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:24:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:24:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:24:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:24:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:24:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:24:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:24:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:24:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:24:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:24:21] [Server thread/INFO]: Time elapsed: 10517 ms
-[20:24:21] [Server thread/INFO]: Done (11.308s)! For help, type "help"
-[20:24:21] [Server thread/INFO]: [STDOUT]: Lithium Cached BlockState Flags are disabled!
-[20:25:16] [User Authenticator #1/INFO]: UUID of player Brayah_ is 4e9490d3-35d6-412b-ab05-fddf8dfece2c
-[20:25:21] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[20:25:23] [Server thread/INFO]: Brayah_[IP hidden] logged in with entity id 80 at (11.10323490470687, 64.0, 14.403632356746293)
-[20:25:23] [Server thread/INFO]: [+] Brayah_>
-[20:28:25] [Server thread/INFO]: Villager class_1646['Villager'/77, l='ServerLevel[world]', x=34.22, y=64.00, z=35.47] died, message: 'Villager was slain by Vex'
-[20:29:36] [Server thread/INFO]: Villager class_1646['Villager'/68, l='ServerLevel[world]', x=34.30, y=64.00, z=-5.50] died, message: 'Villager was slain by Vex'
-[20:31:42] [Server thread/INFO]: Brayah_ has completed the challenge [Hero of the Village]
-[21:03:01] [Server thread/INFO]: Brayah_ lost connection: Disconnected
-[21:03:01] [Server thread/INFO]: [+] Brayah_>
-[21:04:01] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[21:28:32] [User Authenticator #2/INFO]: UUID of player Brayah_ is 4e9490d3-35d6-412b-ab05-fddf8dfece2c
-[21:28:35] [Server thread/INFO]: Brayah_[IP hidden] logged in with entity id 11218 at (59.743750013411045, 63.0, 10.67623828448774)
-[21:28:35] [Server thread/INFO]: [+] Brayah_>
-[22:12:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=215, y=72, z=81} class_2338{x=218, y=73, z=81}
-[22:12:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=215, y=73, z=76} class_2338{x=216, y=72, z=77}
-[22:12:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=215, y=73, z=76} class_2338{x=216, y=72, z=77}
-[22:12:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=215, y=73, z=76} class_2338{x=216, y=72, z=77}
-[22:12:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=215, y=73, z=76} class_2338{x=216, y=72, z=77}
-[22:27:19] [Server thread/INFO]: Brayah_ lost connection: Disconnected
-[22:27:19] [Server thread/INFO]: [+] Brayah_>
-[22:27:25] [Server thread/INFO]: Stopping the server
-[22:27:25] [Server thread/INFO]: Stopping server
-[22:27:25] [Server thread/INFO]: Saving players
-[22:27:25] [Server thread/INFO]: Saving worlds
-[22:27:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:27:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:27:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:27:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:27:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:27:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:27:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:08:33] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MineServer/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[02:08:33] [main/INFO]: Compatibility level set to JAVA_21
+[02:08:34] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
+[02:08:34] [main/INFO]: Option 'mixin.entity.collisions.fluid' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.entity.collisions.fluid=false'.
+[02:08:34] [main/INFO]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
+[02:08:34] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
+[02:08:34] [main/INFO]: Option 'mixin.experimental.entity.block_caching.fluid_pushing' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.fluid_pushing=false'.
+[02:08:34] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
+[02:08:34] [main/INFO]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
+[02:08:34] [main/INFO]: Loaded configuration file for Lithium: 139 options available, 1 override(s) found
+[02:08:34] [main/WARN]: Reference map 'lithium.refmap.json' for lithium.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:08:34] [main/WARN]: Reference map 'lithium-fabric.refmap.json' for lithium-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:08:35] [main/INFO]: Force-enabling mixin 'compat.transfer_api.TransferApiHelperMixin' as rule 'mixin.compat.transfer_api' (added by mods [lithium]) enables it
+[02:08:35] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[02:08:47] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
+[02:08:47] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[02:08:47] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:08:51] [main/INFO]: Loaded 1337 recipes
+[02:08:51] [main/INFO]: Loaded 1448 advancements
+[02:08:51] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 5.767 ms
+[02:08:51] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[02:08:51] [Server thread/INFO]: Loading properties
+[02:08:51] [Server thread/INFO]: Default game type: SURVIVAL
+[02:08:51] [Server thread/INFO]: Generating keypair
+[02:08:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:08:51] [Server thread/INFO]: Using epoll channel type
+[02:08:51] [Server thread/INFO]: Preparing level "world"
+[02:08:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:09:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:09:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:09:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:09:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:09:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:09:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:09:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:09:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:09:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:09:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:09:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:09:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:09:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:09:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:09:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:09:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:09:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:09:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:09:01] [Server thread/INFO]: Time elapsed: 9033 ms
+[02:09:01] [Server thread/INFO]: Done (9.617s)! For help, type "help"
+[02:09:01] [Server thread/INFO]: [STDOUT]: Lithium Cached BlockState Flags are disabled!
+[02:09:17] [User Authenticator #1/INFO]: UUID of player Brayah_ is 4e9490d3-35d6-412b-ab05-fddf8dfece2c
+[02:09:19] [Server thread/INFO]: Brayah_[IP hidden] logged in with entity id 36 at (200.17319427362878, 72.0, -34.69999998807907)
+[02:09:20] [Server thread/INFO]: [+] Brayah_>
+[02:12:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=213, y=77, z=-27} class_2338{x=213, y=76, z=-26}
+[02:12:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=214, y=78, z=-39} class_2338{x=215, y=77, z=-39}
+[02:53:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=223, y=76, z=-30} class_2338{x=229, y=77, z=-29}
+[03:11:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2778ms or 55 ticks behind
+[03:21:09] [Server thread/INFO]: Brayah_ has made the advancement [Bee Our Guest]
+[03:38:05] [Server thread/INFO]: Brayah_ lost connection: Disconnected
+[03:38:05] [Server thread/INFO]: [+] Brayah_>
+[03:38:15] [Server thread/INFO]: Stopping the server
+[03:38:15] [Server thread/INFO]: Stopping server
+[03:38:15] [Server thread/INFO]: Saving players
+[03:38:15] [Server thread/INFO]: Saving worlds
+[03:38:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:38:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:38:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:38:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:38:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:38:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:38:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
