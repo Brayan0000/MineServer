@@ -20,7 +20,7 @@
       "joined_the_game": "<gray>[<green>+</green>] </gray><yellow>${player}></yellow>",
       "joined_after_name_change": "<gray>[<green>+</green>] <yellow>${player}></yellow>(${old_name})</gray>",
       "joined_for_first_time": "<gray>[<green>+</green>] </gray><yellow>${player}></yellow>",
-      "left_game": "<gray>[<red>+</red>] </gray><yellow>${player}></yellow>",
+      "left_game": "<gray>[<red>-</red>] </gray><yellow>${player}></yellow>",
       "base_death": "${default_message}",
       "advancement_task": "<lang:chat.type.advancement.task:'${player}':'${advancement}'>",
       "advancement_challenge": "<lang:chat.type.advancement.challenge:'${player}':'${advancement}'>",
