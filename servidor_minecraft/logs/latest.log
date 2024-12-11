@@ -1,3 +1,4 @@
 [00:12:50] [Server thread/WARN]: Brayah_ moved wrongly!
 [00:15:53] [Worker-Main-1/ERROR]: Failed to fetch mob spawner entity at (1273, -14, 1721)
 [00:20:32] [Server thread/INFO]: <Brayah_> 1300 1500
+[00:48:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=197, y=72, z=-32} class_2338{x=199, y=71, z=-32}
